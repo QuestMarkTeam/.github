@@ -19,7 +19,7 @@
 
 ## 🧠 핵심 기능 요약
 
-<details> <summary><b> 클럽 기능</b>(cluvrapi)</summary>
+<details> <summary><b> 클럽 기능(cluvrapi)</b></summary>
   <li>  클럽 생성/참여, 가입양식 관리, TIL 및 커뮤니티 게시판</li>
   <li>  사용자 프로필, 점수 시스템(클로버), 내공(젬) 연동</li>
 </details>

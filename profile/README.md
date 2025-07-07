@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 핵심 기능 요약
+## 핵심 기능 요약
 
 <details> <summary><b> 클럽 기능(cluvrapi)</b></summary>
   <li>  클럽 생성/참여, 가입양식 관리, TIL 및 커뮤니티 게시판</li>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠기술 스택
 
 | 영역           | 기술                                        |
 | ------------ | ----------------------------------------- |
@@ -59,7 +59,7 @@
 
 ---
 
-## 📂 공통 설정 및 CI/CD
+## 공통 설정 및 CI/CD
 
 * 공통 `.env` 또는 `application.yml` 설정이 필요할 수 있습니다.
 * GitHub Actions, Jenkins 기반 CI/CD (각 레포지토리 참고)
@@ -67,11 +67,11 @@
 
 ---
 
-## 🔖 참고 문서
+## 참고 문서
 
 * [API 서버 문서](https://github.com/QuestMarkTeam/cluvr-api/wiki)
-* [Batch 서버 문서](https://github.com/QuestMarkTeam/cluvr-batch)
+* [Batch 서버 문서]([https://github.com/QuestMarkTeam/cluvr-batch](https://github.com/QuestMarkTeam/cluvr-batch#cluvr-batch))
 * [Chat 서버 문서](https://github.com/QuestMarkTeam/cluvr-chat/wiki)
-* [Notifiaction 서버 문서](https://github.com/QuestMarkTeam/cluvr-notification/wiki/notification-wikiiii)
+* [Notifiaction 서버 문서](https://github.com/QuestMarkTeam/cluvr-notification#cluvr-notifications-service)
 
 

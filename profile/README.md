@@ -70,7 +70,7 @@
 ## 참고 문서
 
 * [API 서버 문서](https://github.com/QuestMarkTeam/cluvr-api/wiki)
-* [Batch 서버 문서]([https://github.com/QuestMarkTeam/cluvr-batch](https://github.com/QuestMarkTeam/cluvr-batch#cluvr-batch)
+* [Batch 서버 문서](https://github.com/QuestMarkTeam/cluvr-batch#cluvr-batch)
 * [Chat 서버 문서](https://github.com/QuestMarkTeam/cluvr-chat/wiki)
 * [Notifiaction 서버 문서](https://github.com/QuestMarkTeam/cluvr-notification#cluvr-notifications-service)
 

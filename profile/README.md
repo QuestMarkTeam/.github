@@ -19,27 +19,29 @@
 
 ## 🧠 핵심 기능 요약
 
-* **클럽 기능 (cluvrapi)**
+<details> <summary><b> 클럽 기능</b>(cluvrapi)</summary>
+  <li>  클럽 생성/참여, 가입양식 관리, TIL 및 커뮤니티 게시판</li>
+  <li>  사용자 프로필, 점수 시스템(클로버), 내공(젬) 연동</li>
+</details>
 
-  * 클럽 생성/참여, 가입양식 관리, TIL 및 커뮤니티 게시판
-  * 사용자 프로필, 점수 시스템(클로버), 내공(젬) 연동
+<details> <summary><b> 실시간 채팅 (cluvr-chat)</b></summary>
+  <li>  WebSocket 기반 채팅</li>
+  <li>  클럽 별 채널 구조 지원</li>
+  <li>  채팅 알림 연동</li>
+</details>
 
-* **실시간 채팅 (cluvr-chat)**
+<details> <summary><b> 알림 서버 (cluvr-notification)</b></summary>
+  <li>  클럽 가입 승인, 댓글, 채팅 알림 등 다채로운 이벤트 기반 알림 발송</li>
+  <li>  Firebase Cloud Messaging(FCM) 연동</li>
+</details>
 
-  * WebSocket 기반 채팅
-  * 클럽 별 채널 구조 지원
-  * 채팅 알림 연동
-
-* **알림 서버 (cluvr-notification)**
-
-  * 클럽 가입 승인, 댓글, 채팅 알림 등 다채로운 이벤트 기반 알림 발송
-  * Firebase Cloud Messaging(FCM) 연동
-
-* **배치 서버 (cluvr-batch)**
-
-  * OpenAI 기반 TIL 피드백 분석 (비동기)
-  * 주간 요약 리뷰 처리
-  * Spring Batch 기반 작업 스케줄링
+<details> <summary><b> 배치 서버 (cluvr-batch)</b></summary>
+ <li>  클로버 로그 적재</li>
+ <li>  젬 로그 적재</li>
+ <li>  OpenAI 기반 TIL 피드백 분석 </li>
+ <li>  게시판 통계 적재 </li>
+ <li>  게시글 조회수 적재 </li>
+</details>
 
 ---
 
